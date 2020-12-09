@@ -1,0 +1,2 @@
+D:\c++\董千里20185800C++\3\C-homework-Bignumber-master\Debug\ColorText.exe
+D:\c++\董千里20185800C++\3\C-homework-Bignumber-master\Debug\ColorText.pdb
