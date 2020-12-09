@@ -256,4 +256,5 @@ void CMainWindow::DOWN()
     NUM[0].SetWindowTextA(s);
     Answer.GetWindowTextA(s);
     NUM[1].SetWindowTextA(s);
+
 }
